@@ -1,4 +1,4 @@
-icinga-slack-webhook
+icinga-zulip-webhook
 ==============
 
 A script to send notifications to zulip from Nagios or Icinga via the generic webhook integration
